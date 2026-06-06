@@ -1,4 +1,3 @@
-```markdown
 # Sistema CRUD - Tabla Periodica en Python
 
 Sistema interactivo de consola para gestionar datos de elementos quimicos con validacion basada en catalogo oficial IUPAC.
@@ -19,3 +18,4 @@ Demostrar manejo de estructuras de datos, validacion de inputs y logica CRUD com
 ## Cómo ejecutarlo
 ```bash
 python tabla_periodica_crud.py
+'''
