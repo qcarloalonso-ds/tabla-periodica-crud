@@ -18,3 +18,4 @@ Demostrar manejo de estructuras de datos, validacion de inputs y logica CRUD com
 ## Cómo ejecutarlo
 ```bash
 python tabla_periodica_crud.py
+'''
